@@ -11,4 +11,4 @@ const logVisibleLightWaves = () => {
   
   logVisibleLightWaves();
   console.log(lightWaves);
-  
+  console.log('Function ends!!')
