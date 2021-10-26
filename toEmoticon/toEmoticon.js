@@ -23,6 +23,7 @@ const toEmoticon = (emotion) =>{
   console.log(toEmoticon('winky face'));
   console.log(toEmoticon('cute face'));
   console.log(toEmoticon('heart'));
+  console.log(toEmoticon('whatever'));
   
   
   
